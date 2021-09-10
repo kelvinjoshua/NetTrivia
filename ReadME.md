@@ -1,6 +1,6 @@
 ## Author
     Kelvin Joshua Bale
-## Technologies
+## Concepts
     Volley library.
     Singleton.
     asynchronous Callback.
