@@ -3,7 +3,13 @@
     <string name="trivia_head">Trivia</string>
     <string name="true_BUTT">TRUE</string>
     <string name="false_butt">FALSE</string>
+    <string name="correct">The answer is Correct.</string>
+    <string name="wrong">The answer is Wrong.</string>
     <string name="next_butt">next</string>
     <string name="placeholder">The LosAngeles Lakers are the 2020 NBA champions.</string>
-    <string name="question_counter">Question 23/90</string>
+    <string name="question_counter">Question :  /913</string>
+    <string name="score">Your score is </string>
+    <string name="hint">SCORE</string>
+    <string name="HINT">HIGHEST SCORE</string>
+
 </resources>

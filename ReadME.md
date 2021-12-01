@@ -1,12 +1,18 @@
+## Description
+
 ## Author
     Kelvin Joshua Bale
-## Concepts
+    
+## App media
+
+## Technologies
     Volley library.
-    Singleton.
+    Singleton pattern.
     asynchronous Callback.
     Shared preferences.
-    public Api.
+    Consuming public Api.
     View binding.
+    Interactive UX Feedback.
     
 ## License
     MIT License copyright (c) 2021 kelvinjoshua
