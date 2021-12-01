@@ -4,9 +4,7 @@
     Kelvin Joshua Bale
     
 ## App media
-    <video width="460" height="700" controls>
-      <source src="https://user-images.githubusercontent.com/60692205/144231621-a5fda760-568f-4c9a-a9a4-2a9f990214b8.mp4" type="video/mp4">
-    </video>
+    <video src="https://user-images.githubusercontent.com/60692205/144231621-a5fda760-568f-4c9a-a9a4-2a9f990214b8.mp4" width="460" height="700">
 ## Technologies
     Volley library.
     Singleton pattern.
