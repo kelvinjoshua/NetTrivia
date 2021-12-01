@@ -13,7 +13,7 @@
     Shared preferences.
     Consuming public Api.
     View binding.
-    Interactive UX Feedback.
+    Interactive User feedback using animations.
     
 ## License
     MIT License copyright (c) 2021 kelvinjoshua
